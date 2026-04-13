@@ -1,2 +1,21 @@
-# MERN-Stack-Learning-Journey
-A personal learning journey of Full Stack MERN development (MongoDB, Express, React, Node.js). This repository contains daily practice tasks, backend APIs, authentication systems, and frontend integration examples built during internship and self-learning.
+# MERN Stack Learning Journey 🚀
+This repository contains my daily learning progress in Full Stack Development using MongoDB, Express, React, and Node.js.
+
+## 📌 What I am learning:
+- REST APIs with Node.js & Express
+- MongoDB database operations
+- User authentication (bcrypt, JWT)
+- React frontend integration
+- Backend project structuring
+
+## 🎯 Purpose:
+To track my learning journey during internship and improve my full-stack development skills.
+
+## 🛠 Tech Stack:
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+
+## 📈 Goal:
+To become a professional full-stack developer.
